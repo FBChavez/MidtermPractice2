@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MidtermPractice2</string>
+    <string name="title">Color Matching</string>
+    <string name="win">You win!</string>
+    <string name="restartBtn">Restart</string>
+</resources>
